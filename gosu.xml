@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="Gosu" ext="">
+    <UserLang name="Gosu" ext="gs gsp gsx">
         <Settings>
             <Global caseIgnored="no" />
             <TreatAsSymbol comment="no" commentLine="no" />
