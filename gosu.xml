@@ -11,7 +11,7 @@
             <Keywords name="Folder-">}</Keywords>
             <Keywords name="Operators">- ! &quot; % ? ~ + &lt; = &gt;</Keywords>
             <Keywords name="Comment">1/* 1/** 2*/ 0//</Keywords>
-            <Keywords name="Words1">package uses class var function public private protected static delegate final as classpath new try typeof catch print finally null in override protocol return this property get where throw if for not enhancement readonly find</Keywords>
+            <Keywords name="Words1">abstract assert break case catch class continue do else enum extends false final finally for if implements uses typeis interface new null package private protected public return static super switch this throw true try void while enhancement protocol function block as represents delegate readonly property get set using var print construct in override and or not params classpath index typeof</Keywords>
             <Keywords name="Words2">{ } ( ) :</Keywords>
             <Keywords name="Words3">boolean int double float long byte char short</Keywords>
             <Keywords name="Words4"></Keywords>
